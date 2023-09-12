@@ -1,0 +1,1 @@
+Sou Técnico em Informática formado pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) em Ilhéus. Atualmente, estou estagiando no mesmo instituto e tenho experiência em programação em PHP, MySQL, CSS, Bootstrap e Wordpless.
