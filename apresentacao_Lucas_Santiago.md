@@ -1,0 +1,1 @@
+Meu nome é Lucas Santiago. Sou técnico em informática, formado pelo IFBA - Campus Ilhéus, e concluí o estágio na Coordenação e Gestão de Tecnologia da Informação (CGTI) no próprio Instituto.
