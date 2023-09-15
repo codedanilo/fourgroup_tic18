@@ -7,4 +7,4 @@ Sou um profissional altamente qualificado na área de informática, com uma sól
 
 Minha expectativa para a residência é desenvolver meus conhecimentos na área e criar conexões com meus colegas para aprender o que ainda não conheço e ajudar no que eu puder. Acredito que cada vivência é uma experiência única que traz conhecimentos que podem ser complementados e, quando compartilhados, expandidos.
 
-
+xxx
